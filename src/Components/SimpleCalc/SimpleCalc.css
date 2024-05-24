@@ -1,0 +1,27 @@
+.calc {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+#inputBox {
+  width: 320px;
+  padding: 15px;
+  font-size: 40px;
+  text-align: right;
+  cursor: pointer;
+}
+
+button {
+  border: none;
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.function {
+  color: #ff6700;
+  font-weight: bold;
+}
